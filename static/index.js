@@ -343,9 +343,9 @@ function shareText(score) {
     SubmitResults();
     if (score <= 49) return '你真的太遜了';
     if (score <= 99) return '唉呦點的不錯嘛';
-    if (score <= 149) return '真會點';
-    if (score <= 199) return '超會點李育有';
-    return 'やりますね';
+    if (score <= 149) return '真會點劉科進';
+    if (score <= 199) return '超會點劉科進';
+    return '專精點擊劉科進';
 }
 
 function toStr(obj) {
